@@ -1,36 +1,34 @@
-# A Huge Number of Go Examples, Exercises and Quizzes
-
-Best way of learning is doing. Inside this repository, you will find thousands of Go examples, exercises and quizzes. I initially created this repository for my **[Go: Bootcamp Course](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37)**. Later on, I added a lot of exercises, and I wanted every programmer who is not yet enrolled in the course to learn for free as well. So here it is. Enjoy.
-
-**Available in the following languages:**
-* **[English](https://github.com/inancgumus/learngo)**
-* **[Spanish](translation/spanish)** _(WIP: Please Contribute)_
-* **[Chinese](translation/chinese)** _(WIP: Please Contribute)_
-
-## ❤️ Help other fellow developers
-
-Sharing is free but caring is priceless. [So, now please click here](https://twitter.com/intent/tweet?text=I%27m%20learning%20%23golang%20with%201000%2B%20hand-crafted%20examples%2C%20exercises%2C%20and%20quizzes.&url=https://github.com/inancgumus/learngo&via=inancgumus) and share this repository on Twitter.
-
-## Stay in touch
-
-* **[Follow me on Twitter](https://twitter.com/inancgumus)**
-
-  _I usually tweet Go tips and tricks._
-
-  [![@inancgumus](https://img.shields.io/twitter/follow/inancgumus.svg?style=social&label=@inancgumus)](https://twitter.com/inancgumus)
-
-* **[Subscribe to my newsletter](https://eepurl.com/c4DMNX)**
-
-  _Get updates from me._
-
-* **[Read my blog](https://blog.learngoprogramming.com)**
-
-  _Followed by 5K+ developers, and contains dozens of illustrated articles about Go._
-
-* **[Watch my Youtube channel](https://www.youtube.com/channel/UCYxepZhtnFIVRh8t5H_QAdg?view_as=subscriber)**
-
----
-
-## License
-Whole materials are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-a-huge-number-of-go-examples-exercises-and-quizzes" class="anchor" aria-hidden="true" tabindex="-1" href="#a-huge-number-of-go-examples-exercises-and-quizzes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大量的 Go 示例、练习和测验</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最好的学习方式就是实践。在这个存储库中，您将找到数千个 Go 示例、练习和测验。我最初为我的</font></font><strong><a href="https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Go: Bootcamp Course</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建了这个存储库</font><font style="vertical-align: inherit;">。后来我又加了很多练习，希望每一个还没有参加课程的程序员也能免费学习。所以就是这样。享受。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有以下语言版本：</font></font></strong></p>
+<ul dir="auto">
+<li><strong><a href="https://github.com/inancgumus/learngo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">英语</font></font></a></strong></li>
+<li><strong><a href="/inancgumus/learngo/blob/master/translation/spanish"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">西班牙语</font></font></a></strong> <em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（WIP：请贡献）</font></font></em></li>
+<li><strong><a href="/inancgumus/learngo/blob/master/translation/chinese"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中文</font></font></a></strong> <em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（WIP：请贡献）</font></font></em></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-help-other-fellow-developers" class="anchor" aria-hidden="true" tabindex="-1" href="#️-help-other-fellow-developers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❤️ 帮助其他开发者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分享是免费的，但关怀是无价的。</font></font><a href="https://twitter.com/intent/tweet?text=I%27m%20learning%20%23golang%20with%201000%2B%20hand-crafted%20examples%2C%20exercises%2C%20and%20quizzes.&amp;url=https://github.com/inancgumus/learngo&amp;via=inancgumus" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因此，现在请单击此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并在 Twitter 上分享此存储库。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-stay-in-touch" class="anchor" aria-hidden="true" tabindex="-1" href="#stay-in-touch"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保持联系</font></font></h2>
+<ul dir="auto">
+<li>
+<p dir="auto"><strong><a href="https://twitter.com/inancgumus" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在推特上关注我</font></font></a></strong></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我通常会在 Twitter 上发布 Go 提示和技巧。</font></font></em></p>
+<p dir="auto"><a href="https://twitter.com/inancgumus" rel="nofollow"><img src="https://camo.githubusercontent.com/592efa42b97cc80e1992ebc3979c6286a2fe96789d9e3d86fe205dcc317dbff5/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f696e616e6367756d75732e7376673f7374796c653d736f6369616c266c6162656c3d40696e616e6367756d7573" alt="@inancgumus" data-canonical-src="https://img.shields.io/twitter/follow/inancgumus.svg?style=social&amp;label=@inancgumus" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto"><strong><a href="https://eepurl.com/c4DMNX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订阅我的时事通讯</font></font></a></strong></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从我这里获取最新消息。</font></font></em></p>
+</li>
+<li>
+<p dir="auto"><strong><a href="https://blog.learngoprogramming.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读我的博客</font></font></a></strong></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拥有 5K+ 开发者关注，包含数十篇有关 Go 的图文并茂的文章。</font></font></em></p>
+</li>
+<li>
+<p dir="auto"><strong><a href="https://www.youtube.com/channel/UCYxepZhtnFIVRh8t5H_QAdg?view_as=subscriber" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">观看我的 YouTube 频道</font></font></a></strong></p>
+</li>
+</ul>
+<hr>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全部材料均根据</font></font><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获得许可。</font></font><br>
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="nofollow"><img alt="知识共享许可" src="https://camo.githubusercontent.com/394c08dc4b8a47e0c6eaecef98132816cccc0bf446259bde1911462f4d6f5a91/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f342e302f38387833312e706e67" data-canonical-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" style="max-width: 100%;"></a></p>
+</article></div>
